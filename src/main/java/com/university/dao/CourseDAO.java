@@ -1,0 +1,1 @@
+// Interface for course DB actions

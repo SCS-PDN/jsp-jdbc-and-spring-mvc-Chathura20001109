@@ -1,0 +1,1 @@
+<!-- JSP to show registration success -->
